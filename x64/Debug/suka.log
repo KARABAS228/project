@@ -1,0 +1,205 @@
+﻿  main.cpp
+C:\blya\suka\suka\source\level.hpp(60,18): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(144,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(145,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(185,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(185,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(242,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(242,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(263,34): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\blya\suka\suka\source\level.hpp(263,34): warning C4244:         with
+C:\blya\suka\suka\source\level.hpp(263,34): warning C4244:         [
+C:\blya\suka\suka\source\level.hpp(263,34): warning C4244:             T=float
+C:\blya\suka\suka\source\level.hpp(263,34): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(264,35): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\blya\suka\suka\source\level.hpp(264,35): warning C4244:         with
+C:\blya\suka\suka\source\level.hpp(264,35): warning C4244:         [
+C:\blya\suka\suka\source\level.hpp(264,35): warning C4244:             T=float
+C:\blya\suka\suka\source\level.hpp(264,35): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(265,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\blya\suka\suka\source\level.hpp(265,25): warning C4244:         with
+C:\blya\suka\suka\source\level.hpp(265,25): warning C4244:         [
+C:\blya\suka\suka\source\level.hpp(265,25): warning C4244:             T=float
+C:\blya\suka\suka\source\level.hpp(265,25): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(266,24): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\blya\suka\suka\source\level.hpp(266,24): warning C4244:         with
+C:\blya\suka\suka\source\level.hpp(266,24): warning C4244:         [
+C:\blya\suka\suka\source\level.hpp(266,24): warning C4244:             T=float
+C:\blya\suka\suka\source\level.hpp(266,24): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(36,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(65,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(92,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(108,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\blya\suka\suka\source\Animation.hpp(108,42): warning C4244:         with
+C:\blya\suka\suka\source\Animation.hpp(108,42): warning C4244:         [
+C:\blya\suka\suka\source\Animation.hpp(108,42): warning C4244:             T=int
+C:\blya\suka\suka\source\Animation.hpp(108,42): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(123,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(123,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(139,55): warning C4244: return: преобразование "T" в "float", возможна потеря данных
+C:\blya\suka\suka\source\Animation.hpp(139,55): warning C4244:         with
+C:\blya\suka\suka\source\Animation.hpp(139,55): warning C4244:         [
+C:\blya\suka\suka\source\Animation.hpp(139,55): warning C4244:             T=int
+C:\blya\suka\suka\source\Animation.hpp(139,55): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Animation.hpp(141,54): warning C4244: return: преобразование "T" в "float", возможна потеря данных
+C:\blya\suka\suka\source\Animation.hpp(141,54): warning C4244:         with
+C:\blya\suka\suka\source\Animation.hpp(141,54): warning C4244:         [
+C:\blya\suka\suka\source\Animation.hpp(141,54): warning C4244:             T=int
+C:\blya\suka\suka\source\Animation.hpp(141,54): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Entity.hpp(26,7): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Entity.hpp(27,7): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Entity.hpp(40,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Entity.hpp(40,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(26,29): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(33,28): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(40,48): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(41,30): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(87,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(115,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(119,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(126,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Player.hpp(130,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Enemy.hpp(13,19): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\MovingPlatform.hpp(11,28): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\HealthBar.hpp(25,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\blya\suka\suka\source\HealthBar.hpp(25,59): warning C4244:         with
+C:\blya\suka\suka\source\HealthBar.hpp(25,59): warning C4244:         [
+C:\blya\suka\suka\source\HealthBar.hpp(25,59): warning C4244:             T=float
+C:\blya\suka\suka\source\HealthBar.hpp(25,59): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(55,49): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(62,58): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(62,58): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(62,58): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(62,58): warning C4244:             T=unsigned int
+C:\blya\suka\suka\source\Game.hpp(62,58): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(62,38): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(62,38): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(62,38): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(62,38): warning C4244:             T=unsigned int
+C:\blya\suka\suka\source\Game.hpp(62,38): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(69,69): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(69,69): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(69,69): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(69,69): warning C4244:             T=float
+C:\blya\suka\suka\source\Game.hpp(69,69): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(69,53): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(69,53): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(69,53): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(69,53): warning C4244:             T=float
+C:\blya\suka\suka\source\Game.hpp(69,53): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(73,78): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(73,78): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(73,78): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(73,78): warning C4244:             T=float
+C:\blya\suka\suka\source\Game.hpp(73,78): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(73,62): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(73,62): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(73,62): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(73,62): warning C4244:             T=float
+C:\blya\suka\suka\source\Game.hpp(73,62): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(76,47): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(76,47): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(76,47): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(76,47): warning C4244:             T=float
+C:\blya\suka\suka\source\Game.hpp(76,47): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(76,33): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+C:\blya\suka\suka\source\Game.hpp(76,33): warning C4244:         with
+C:\blya\suka\suka\source\Game.hpp(76,33): warning C4244:         [
+C:\blya\suka\suka\source\Game.hpp(76,33): warning C4244:             T=float
+C:\blya\suka\suka\source\Game.hpp(76,33): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(84,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\Game.hpp(130,53): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\blya\suka\suka\source\level.hpp(312): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+  suka.vcxproj -> C:\blya\suka\x64\Debug\suka.exe
